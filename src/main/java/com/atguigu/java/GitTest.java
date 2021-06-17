@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Second Commit");
         System.out.println("third commit master");
         System.out.println("hot-fix commit");
+        System.out.println("github commit");
     }
 }
